@@ -7,7 +7,6 @@ Esta es una aplicacion de escritorio desarrollada en Python utilizando la librer
 - Conversiones soportadas: Celsius, Fahrenheit y Kelvin.
 - Interfaz grafica: Diseñada para ser ligera y facil de utilizar.
 - Validacion de entrada: Manejo de valores numericos para asegurar calculos correctos.
-- Boton de limpieza: Permite restablecer los campos para realizar nuevas consultas rapidamente.
 - Estetica consistente: Uso de colores personalizados para una mejor experiencia de usuario.
 
 ## Tecnologias Utilizadas
